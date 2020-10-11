@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitapmau", "Baitapmau\Baitapmau.csproj", "{278F3B57-C334-4BBB-AD3C-D1BF3AC03E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278F3B57-C334-4BBB-AD3C-D1BF3AC03E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278F3B57-C334-4BBB-AD3C-D1BF3AC03E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278F3B57-C334-4BBB-AD3C-D1BF3AC03E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278F3B57-C334-4BBB-AD3C-D1BF3AC03E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

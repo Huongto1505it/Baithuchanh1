@@ -1,0 +1,6 @@
+e:\c#\Baitapmau\Baitapmau\bin\Debug\Baitapmau.exe.config
+E:\c#\Baitapmau\Baitapmau\bin\Debug\Baitapmau.exe
+E:\c#\Baitapmau\Baitapmau\bin\Debug\Baitapmau.pdb
+E:\c#\Baitapmau\Baitapmau\obj\Debug\Baitapmau.csprojResolveAssemblyReference.cache
+E:\c#\Baitapmau\Baitapmau\obj\Debug\Baitapmau.exe
+E:\c#\Baitapmau\Baitapmau\obj\Debug\Baitapmau.pdb
